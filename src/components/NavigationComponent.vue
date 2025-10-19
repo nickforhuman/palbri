@@ -146,14 +146,14 @@
             <ul>
               <li id="navigation">
                 <router-link
-                  to="/"
+                  to="/products/aiproducts"
                   class="px-2 py-2 gap-2 text-secondary flex justify-start items-center"
                   ><BrainCircuit class="w-6 h-6 text-red-600" /> AI Products</router-link
                 >
               </li>
               <li id="navigation">
                 <router-link
-                  to="/"
+                  to="/products/websites"
                   class="px-2 py-2 gap-2 text-secondary flex justify-start items-center"
                 >
                   <Globe class="w-6 h-6 text-blue-600" /> Websites</router-link
@@ -161,7 +161,7 @@
               </li>
               <li id="navigation">
                 <router-link
-                  to="/"
+                  to="/products/mobileapps"
                   class="px-2 py-2 gap-2 text-secondary flex justify-start items-center"
                 >
                   <TabletSmartphone class="w-6 h-6 text-orange-400" /> Mobile Apps</router-link
@@ -169,7 +169,7 @@
               </li>
               <li id="navigation">
                 <router-link
-                  to="/"
+                  to="/products/ecommerce"
                   class="px-2 py-2 gap-2 text-secondary flex justify-start items-center"
                 >
                   <ShoppingBag class="w-6 h-6 text-green-400" /> E-commerce</router-link

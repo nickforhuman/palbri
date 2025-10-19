@@ -2,77 +2,66 @@
   <div id="contact" class="w-full flex bg-primary justify-center items-center py-8">
     <form
       id="contact"
-      class="max-w-3xl w-full bg-white/80 dark:bg-slate-900/70 backdrop-blur-sm rounded-2xl shadow-lg border border-slate-200 dark:border-slate-800 p-6 m-4 grid gap-6 md:grid-cols-2"
+      class="max-w-3xl w-full bg-white/80 backdrop-blur-sm rounded-2xl shadow-lg border border-slate-200 p-6 m-4 grid gap-6 md:grid-cols-2"
     >
-      <h2
-        id="contact"
-        class="md:col-span-2 text-4xl font-semibold text-slate-800 dark:text-slate-100"
-      >
+      <h2 id="contact" class="md:col-span-2 text-4xl font-semibold text-slate-800">
         Əlaqə məlumatları
       </h2>
 
       <!-- Full name -->
       <div class="flex flex-col">
-        <label id="contact" class="text-sm font-medium text-slate-700 dark:text-slate-200">
-          * Full name
-        </label>
+        <label id="contact" class="text-sm font-medium text-slate-700"> * Full name </label>
         <input
           id="contact"
           type="text"
           placeholder="Alikhan Alizade"
-          class="mt-2 px-4 py-2 rounded-lg border border-slate-200 dark:border-slate-800 focus:outline-none focus:ring-2 focus:ring-indigo-300 dark:bg-slate-800 dark:text-slate-100"
+          class="mt-2 px-4 py-2 rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-indigo-300"
         />
       </div>
 
       <!-- Company name -->
       <div class="flex flex-col">
-        <label id="contact" class="text-sm font-medium text-slate-700 dark:text-slate-200">
-          * Company name
-        </label>
+        <label id="contact" class="text-sm font-medium text-slate-700"> * Company name </label>
         <input
           id="contact"
           type="text"
           placeholder="Company name"
-          class="mt-2 px-4 py-2 rounded-lg border border-slate-200 dark:border-slate-800 focus:outline-none focus:ring-2 focus:ring-indigo-300 dark:bg-slate-800 dark:text-slate-100"
+          class="mt-2 px-4 py-2 rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-indigo-300"
         />
       </div>
 
       <!-- Email -->
       <div class="flex flex-col">
-        <label id="contact" class="text-sm font-medium text-slate-700 dark:text-slate-200">
-          * Email
-        </label>
+        <label id="contact" class="text-sm font-medium text-slate-700"> * Email </label>
         <input
           id="contact"
           type="email"
           placeholder="example@gmail.com"
-          class="mt-2 px-4 py-2 rounded-lg border border-slate-200 dark:border-slate-800 focus:outline-none focus:ring-2 focus:ring-indigo-300 dark:bg-slate-800 dark:text-slate-100"
+          class="mt-2 px-4 py-2 rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-indigo-300"
         />
       </div>
 
       <!-- Phone or messenger -->
       <div class="flex flex-col">
-        <label id="contact" class="text-sm font-medium text-slate-700 dark:text-slate-200">
+        <label id="contact" class="text-sm font-medium text-slate-700">
           * Phone or any messenger
         </label>
         <input
           id="contact"
           type="text"
           placeholder="+994 50 000 00 00 / Telegram"
-          class="mt-2 px-4 py-2 rounded-lg border border-slate-200 dark:border-slate-800 focus:outline-none focus:ring-2 focus:ring-indigo-300 dark:bg-slate-800 dark:text-slate-100"
+          class="mt-2 px-4 py-2 rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-indigo-300"
         />
       </div>
 
       <!-- Message -->
       <div class="md:col-span-2 flex flex-col">
-        <label id="contact" class="text-sm font-medium text-slate-700 dark:text-slate-200">
-          Message (optional)
-        </label>
+        <label id="contact" class="text-sm font-medium text-slate-700"> Message (optional) </label>
         <textarea
           id="contact"
           rows="4"
           placeholder="Layihə haqqında qısa təsvir..."
-          class="mt-2 px-4 py-3 rounded-lg border border-slate-200 dark:border-slate-800 focus:outline-none focus:ring-2 focus:ring-indigo-300 dark:bg-slate-800 dark:text-slate-100"
+          class="mt-2 px-4 py-3 rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-indigo-300"
         ></textarea>
       </div>
 
@@ -87,7 +76,7 @@
           </button>
           <button
             type="reset"
-            class="px-5 py-2 rounded-lg border border-slate-300 text-sm text-slate-700 hover:bg-slate-50 dark:text-slate-200 dark:border-slate-700 transition"
+            class="px-5 py-2 rounded-lg border border-slate-300 text-sm text-slate-700 hover:bg-slate-50 transition"
           >
             Sıfırla
           </button>

@@ -69,15 +69,6 @@ const SponsorItems = ref([
     id: 12,
     image: new URL('@/assets/contents/sponsors/1.png', import.meta.url).href,
   },
-
-  {
-    id: 11,
-    image: new URL('@/assets/contents/sponsors/1.png', import.meta.url).href,
-  },
-  {
-    id: 12,
-    image: new URL('@/assets/contents/sponsors/1.png', import.meta.url).href,
-  },
 ])
 onMounted(() => {
   const sponsorSelector = gsap.utils.toArray('#sponsor')

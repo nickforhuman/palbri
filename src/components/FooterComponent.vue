@@ -39,28 +39,28 @@
           <ul id="footer" class="flex md:flex-col flex-wrap md:flex-nowrap gap-5 text-secondary">
             <li>
               <router-link
-                to="/"
+                to="/products/aiproducts"
                 class="px-4 py-2 rounded-3xl border border-gray-500 hover:bg-black hover:border-black hover:text-primary transition-all"
                 >AI Products</router-link
               >
             </li>
             <li>
               <router-link
-                to="/"
+                to="/products/websites"
                 class="px-4 py-2 rounded-3xl border border-gray-500 hover:bg-black hover:border-black hover:text-primary transition-all"
                 >Websites</router-link
               >
             </li>
             <li>
               <router-link
-                to="/"
+                to="/products/mobileapps"
                 class="px-4 py-2 rounded-3xl border border-gray-500 hover:bg-black hover:border-black hover:text-primary transition-all"
                 >Mobile Apps</router-link
               >
             </li>
             <li>
               <router-link
-                to="/"
+                to="/products/ecommerce"
                 class="px-4 py-2 rounded-3xl border border-gray-500 hover:bg-black hover:border-black hover:text-primary transition-all"
                 >E-commerce</router-link
               >
@@ -140,16 +140,16 @@
 
         <ul class="flex justify-center items-center gap-2">
           <li>
-            <a href=""><Instagram /></a>
+            <a href=""><Instagram class="text-[#E1306C]" /></a>
           </li>
           <li>
-            <a href=""><Youtube /></a>
+            <a href=""><Youtube class="text-red-600" /></a>
           </li>
           <li>
-            <a href=""><Linkedin /></a>
+            <a href=""><Linkedin class="text-blue-400" /></a>
           </li>
           <li>
-            <a href=""><Github /></a>
+            <a href=""><Github class="text-secondary" /></a>
           </li>
         </ul>
       </div>
