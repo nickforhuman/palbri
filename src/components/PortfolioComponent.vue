@@ -1,6 +1,6 @@
 <template>
   <div class="w-full">
-    <h1 id="portfolio" class="md:text-3xl text-2xl w-full max-w-164 m-2 font-bold">
+    <h1 id="portfolio" class="text-3xl w-full p-2 font-bold">
       We have the largest portfolio in the country with more than 500 <br />
       projects in all the main industries.
     </h1>

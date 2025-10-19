@@ -10,32 +10,6 @@
       </p>
     </div>
     <!-- header end  -->
-    <!-- map start  -->
-    <div class="w-full flex justify-center items-center">
-      <div class="relative flex justify-center items-end w-full">
-        <img
-          id="globalInovation"
-          src="@/assets/contents/inovation/worldmap.png"
-          class="outline-4 outline-primary/50 object-cover bg-primary rounded-3xl"
-          alt=""
-        />
-        <div>
-          <ul id="globalInovation" class="flex gap-2 flex-col absolute bottom-5 right-5">
-            <li
-              class="rounded-3xl hover:bg-primary transition-all cursor-pointer px-4 py-2 italic font-bold bg-secondary"
-            >
-              🇦🇿 Azerbaijan
-            </li>
-            <li
-              class="rounded-3xl hover:bg-primary transition-all cursor-pointer px-4 py-2 italic font-bold bg-secondary"
-            >
-              🌐 Global
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <!-- map end  -->
   </div>
 </template>
 

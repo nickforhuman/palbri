@@ -1,29 +1,43 @@
-/* enter */
-.slide-left-enter-from {
-  transform: translateX(12px);
+/* === SLIDE UP ANIMATION === */
+.slide-up-enter-active,
+.slide-up-leave-active {
+  transition: all 0.4s ease;
+}
+.slide-up-enter-from {
   opacity: 0;
+  transform: translateY(20px);
 }
-.slide-left-enter-active {
-  transition:
-    transform 260ms cubic-bezier(0.2, 0.9, 0.3, 1),
-    opacity 260ms;
-}
-.slide-left-enter-to {
-  transform: translateX(0);
+.slide-up-enter-to {
   opacity: 1;
+  transform: translateY(0);
+}
+.slide-up-leave-from {
+  opacity: 1;
+  transform: translateY(0);
+}
+.slide-up-leave-to {
+  opacity: 0;
+  transform: translateY(20px);
 }
 
-/* leave */
-.slide-left-leave-from {
-  transform: translateX(0);
-  opacity: 1;
-}
+/* === SLIDE LEFT ANIMATION === */
+.slide-left-enter-active,
 .slide-left-leave-active {
-  transition:
-    transform 220ms cubic-bezier(0.4, 0, 0.2, 1),
-    opacity 220ms;
+  transition: all 0.4s ease;
+}
+.slide-left-enter-from {
+  opacity: 0;
+  transform: translateX(40px);
+}
+.slide-left-enter-to {
+  opacity: 1;
+  transform: translateX(0);
+}
+.slide-left-leave-from {
+  opacity: 1;
+  transform: translateX(0);
 }
 .slide-left-leave-to {
-  transform: translateX(10px);
   opacity: 0;
+  transform: translateX(-40px);
 }

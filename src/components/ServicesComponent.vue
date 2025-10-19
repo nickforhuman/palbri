@@ -118,7 +118,7 @@
       >
         <div class="flex flex-col gap-5">
           <div id="service" class="w-full flex items-center gap-2">
-            <HeartPlus class="w-8 h-8 text-purple-400" />
+            <HeartPlus class="w-8 h-8 text-red-400" />
             <h1 class="text-2xl font-bold">Product Support</h1>
           </div>
           <div id="service">

@@ -1,7 +1,9 @@
 <template>
   <div class="grid md:grid-cols-2 grid-cols-1 w-full h-screen">
     <!-- leftside start  -->
-    <div class="flex flex-col justify-around m-2 gap-4 bg-primary">
+    <div
+      class="flex flex-col justify-around m-2 gap-4 rounded-3xl p-4 md:p-0 md:bg-secondary bg-primary"
+    >
       <div class="flex flex-col items-center justify-center gap-4">
         <h1 id="intro_text" class="font-bold text-4xl">We are an ideas and innovation company.</h1>
         <p id="intro_text" class="text-gray-400 text-sm">
@@ -94,9 +96,9 @@
     <transition name="slide-up">
       <div
         v-if="isFilmPopup"
-        class="w-full h-screen z-50 flex justify-center items-center fixed overflow-hidden bg-[rgba(0,0,0,0.4)]"
+        class="w-full h-screen inset-0 z-50 flex justify-center items-center fixed overflow-hidden bg-[rgba(0,0,0,0.4)]"
       >
-        <div class="bg-secondary w-full h-full m-2 flex justify-center items-center relative">
+        <div class="bg-primary w-full h-full m-2 flex justify-center items-center relative">
           <div id="closebtn" class="absolute top-5 right-5">
             <X
               @click="filmPopupToggle"
