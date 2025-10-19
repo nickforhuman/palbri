@@ -98,7 +98,7 @@
         v-if="isFilmPopup"
         class="w-full h-screen inset-0 z-50 flex justify-center items-center fixed overflow-hidden bg-[rgba(0,0,0,0.4)]"
       >
-        <div class="bg-secondary w-full h-full m-2 flex justify-center items-center relative">
+        <div class="bg-primary w-full h-full m-2 flex justify-center items-center relative">
           <div id="closebtn" class="absolute top-5 right-5">
             <X
               @click="filmPopupToggle"
