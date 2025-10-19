@@ -1,4 +1,5 @@
 import AboutView from '@/views/AboutView.vue'
+import ContactView from '@/views/ContactView.vue'
 import HomeView from '@/views/HomeView.vue'
 import ProjectsView from '@/views/ProjectsView.vue'
 import ServicesView from '@/views/ServicesView.vue'
@@ -28,6 +29,11 @@ const router = createRouter({
       path: '/projects',
       name: 'Projects',
       component: ProjectsView,
+    },
+    {
+      path: '/contact',
+      name: 'Contact',
+      component: ContactView,
     },
   ],
   scrollBehavior(to, from, savedPosition) {

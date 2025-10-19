@@ -27,7 +27,7 @@
             </li>
             <li>
               <router-link
-                to="/"
+                to="/contact"
                 class="px-4 py-2 rounded-3xl border border-gray-500 hover:bg-black hover:border-black hover:text-primary transition-all"
                 >Contacts</router-link
               >

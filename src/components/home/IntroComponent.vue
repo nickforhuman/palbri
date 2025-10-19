@@ -1,7 +1,7 @@
 <template>
   <div class="grid md:grid-cols-2 grid-cols-1 w-full h-screen">
     <!-- leftside start  -->
-    <div class="flex flex-col justify-around m-2 gap-4">
+    <div class="flex flex-col justify-around m-2 gap-4 bg-primary">
       <div class="flex flex-col items-center justify-center gap-4">
         <h1 id="intro_text" class="font-bold text-4xl">We are an ideas and innovation company.</h1>
         <p id="intro_text" class="text-gray-400 text-sm">
