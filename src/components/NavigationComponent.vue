@@ -203,8 +203,8 @@
         <!-- menu content end  -->
         <!-- info start  -->
         <div class="flex justify-start flex-col items-center w-full py-6 gap-2">
-          <h1 id="navigation" class="text-xs text-gray-400 m-2">OUR DIRECTIONS</h1>
-          <ul class="w-full place-items-center grid md:grid-cols-2 grid-cols-1 gap-4">
+          <h1 id="navigation" class="text-xs text-gray-400 m-2">Info</h1>
+          <ul class="w-full flex justify-center items-center md:flex-row flex-col gap-4">
             <li>
               <a
                 class="w-full px-4 py-2 border border-gray-400 rounded-3xl text-secondary font-bold"
@@ -219,8 +219,10 @@
                 >info@example.com</a
               >
             </li>
-            <li class="text-xs text-primary">&copy; all right reserved. Code by Inal Garali.</li>
           </ul>
+          <div class="flex justify-center items-center py-5">
+            <p class="text-xs text-primary">&copy; all right reserved. Code by Inal Garali.</p>
+          </div>
         </div>
         <!-- info end  -->
       </div>
