@@ -85,7 +85,7 @@ onMounted(() => {
     gsap.fromTo(
       sponsor,
       { y: 50, opacity: 0 },
-      { scrollTrigger: sponsor, duration: 1, delay: i * 0.2, y: 0, opacity: 1 },
+      { scrollTrigger: sponsor, duration: 1, delay: i * 0.1, y: 0, opacity: 1 },
     )
   })
 })

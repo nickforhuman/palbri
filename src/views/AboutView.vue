@@ -41,7 +41,7 @@ onMounted(() => {
     gsap.fromTo(
       aboutitems,
       { y: 50, opacity: 0 },
-      { scrollTrigger: aboutitems, duration: 1, delay: i * 0.2, y: 0, opacity: 1 },
+      { scrollTrigger: aboutitems, duration: 1, delay: i * 0.1, y: 0, opacity: 1 },
     )
   })
 })

@@ -171,7 +171,7 @@ onMounted(() => {
     gsap.fromTo(
       footers,
       { y: 50, opacity: 0 },
-      { scrollTrigger: footers, duration: 1, delay: i * 0.2, y: 0, opacity: 1 },
+      { scrollTrigger: footers, duration: 1, delay: i * 0.1, y: 0, opacity: 1 },
     )
   })
 })
