@@ -6,40 +6,44 @@
     </h1>
     <div class="grid gap-2 m-2 md:grid-cols-2 grid-cols-1">
       <!-- cards start  -->
-      <div id="portfolio" class="p-2">
-        <div>
-          <img
-            src="@/assets/contents/video/intro.gif"
-            class="w-full rounded-2xl object-cover"
-            alt=""
-          />
+      <a href="https://woofood.onrender.com" target="_blank">
+        <div id="portfolio" class="p-2">
+          <div>
+            <img
+              src="@/assets/contents/video/products/woopizza/desktopwoopizza.gif"
+              class="w-full rounded-2xl object-cover"
+              alt=""
+            />
+          </div>
+          <div class="m-2">
+            <h1 class="text-lg">Projects for Woofood</h1>
+            <p class="text-gray-400 text-xs">
+              InalGarali successfully performed more than 1 projects of various categories for
+              woofood
+            </p>
+          </div>
         </div>
-        <div class="m-2">
-          <h1 class="text-lg">Projects for BP Azerbaijan</h1>
-          <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
-            Azerbaijan
-          </p>
-        </div>
-      </div>
+      </a>
       <!-- cards end  -->
       <!-- cards start  -->
-      <div id="portfolio" class="p-2">
-        <div>
-          <img
-            src="@/assets/contents/video/intro.gif"
-            class="w-full rounded-2xl object-cover"
-            alt=""
-          />
+      <a href="https://cartierman.onrender.com/">
+        <div id="portfolio" class="p-2">
+          <div>
+            <img
+              src="@/assets/contents/video/products/cartierman/cartiermandesktop.gif"
+              class="w-full rounded-2xl object-cover"
+              alt=""
+            />
+          </div>
+          <div class="m-2">
+            <h1 class="text-lg">Projects for Cartierman</h1>
+            <p class="text-gray-400 text-xs">
+              InalGarali successfully performed more than 1 projects of various categories for
+              cartierman
+            </p>
+          </div>
         </div>
-        <div class="m-2">
-          <h1 class="text-lg">Projects for BP Azerbaijan</h1>
-          <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
-            Azerbaijan
-          </p>
-        </div>
-      </div>
+      </a>
       <!-- cards end  -->
       <!-- cards start  -->
       <div id="portfolio" class="p-2 w-full col-span-full">
@@ -53,7 +57,7 @@
         <div class="m-2">
           <h1 class="text-lg">Projects for BP Azerbaijan</h1>
           <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
+            IGstudio successfully performed more than 300 projects of various categories for BP
             Azerbaijan
           </p>
         </div>
@@ -71,7 +75,7 @@
         <div class="m-2">
           <h1 class="text-lg">Projects for BP Azerbaijan</h1>
           <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
+            IGstudio successfully performed more than 300 projects of various categories for BP
             Azerbaijan
           </p>
         </div>
@@ -89,7 +93,7 @@
         <div class="m-2">
           <h1 class="text-lg">Projects for BP Azerbaijan</h1>
           <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
+            IGstudio successfully performed more than 300 projects of various categories for BP
             Azerbaijan
           </p>
         </div>

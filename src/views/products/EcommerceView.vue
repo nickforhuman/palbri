@@ -27,7 +27,7 @@
     <!-- about ai product end  -->
     <!-- expertise start  -->
     <div class="w-full py-6 flex justify-center items-center">
-      <div id="aiproduct" class="flex p-2 flex-col justify-center items-center">
+      <div id="aiproduct" class="flex p-2 gap-6 flex-col justify-center items-center">
         <h1 class="text-5xl font-bold">Technology + Innovation + Market Expertise</h1>
         <p class="text-gray-400 text-xs px-4 py-1 border border-gray-400 rounded-3xl">SERVICES</p>
         <p class="text-xs py-2 text-gray-600">

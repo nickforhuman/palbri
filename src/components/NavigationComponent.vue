@@ -5,7 +5,7 @@
   >
     <div class="m-4 flex gap-4">
       <router-link to="/">
-        <h1 id="navigation" class="text-2xl text-primary font-bold">PALBRI</h1>
+        <h1 id="navigation" class="text-2xl text-primary font-bold">IGstudio</h1>
       </router-link>
       <ul id="navigation" class="hidden md:flex justify-center items-center gap-2 text-xs">
         <li>
@@ -49,7 +49,7 @@
         <!-- navigation menu top bar start -->
         <div id="navigation" class="w-full flex justify-between p-2">
           <div>
-            <h1 class="text-xl font-bold text-primary">PALBRI</h1>
+            <h1 class="text-xl font-bold text-primary">IGstudio</h1>
           </div>
           <div>
             <ul class="flex gap-2">

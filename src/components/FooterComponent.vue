@@ -136,7 +136,7 @@
         id="footer"
         class="w-full gap-2 place-items-center grid md:grid-cols-2 grid-cols-1 py-4 border-t border-t-secondary text-secondary"
       >
-        <h1 class="md:text-md text-xs">&copy; Palbri all right reserved. code by Inal Garali</h1>
+        <h1 class="md:text-md text-xs">&copy; IGstudio all right reserved. code by Inal Garali</h1>
 
         <ul class="flex justify-center items-center gap-2">
           <li>

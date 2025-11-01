@@ -13,7 +13,7 @@
         <div class="m-2">
           <h1 class="text-lg">Projects for BP Azerbaijan</h1>
           <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
+            IGstudio successfully performed more than 300 projects of various categories for BP
             Azerbaijan
           </p>
         </div>
@@ -31,7 +31,7 @@
         <div class="m-2">
           <h1 class="text-lg">Projects for BP Azerbaijan</h1>
           <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
+            IGstudio successfully performed more than 300 projects of various categories for BP
             Azerbaijan
           </p>
         </div>
@@ -49,7 +49,7 @@
         <div class="m-2">
           <h1 class="text-lg">Projects for BP Azerbaijan</h1>
           <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
+            IGstudio successfully performed more than 300 projects of various categories for BP
             Azerbaijan
           </p>
         </div>
@@ -67,7 +67,7 @@
         <div class="m-2">
           <h1 class="text-lg">Projects for BP Azerbaijan</h1>
           <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
+            IGstudio successfully performed more than 300 projects of various categories for BP
             Azerbaijan
           </p>
         </div>
@@ -85,7 +85,7 @@
         <div class="m-2">
           <h1 class="text-lg">Projects for BP Azerbaijan</h1>
           <p class="text-gray-400 text-xs">
-            PalBri successfully performed more than 300 projects of various categories for BP
+            IGstudio successfully performed more than 300 projects of various categories for BP
             Azerbaijan
           </p>
         </div>

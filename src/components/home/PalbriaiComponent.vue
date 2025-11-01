@@ -9,7 +9,7 @@
       <div
         class="w-96 flex flex-col justify-around gap-6 px-4 py-10 bg-secondary z-10 md:absolute relative top-5 right-5 rounded-2xl"
       >
-        <h1 id="palbri-ai" class="mx-4 text-2xl font-bold">Palbri.ai</h1>
+        <h1 id="palbri-ai" class="mx-4 text-2xl font-bold">Gulan.ai</h1>
         <p id="palbri-ai" class="mx-4 text-gray-400 text-xs">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt nihil maiores sequi aliquam
           eveniet vero ullam porro alias quisquam modi molestias officia accusantium quae, rerum
